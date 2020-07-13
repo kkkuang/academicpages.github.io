@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Downloard CV
+[[Download CV](http://kkkuang.github.io/files/cv.pdf)]
 
 Education
 ======
