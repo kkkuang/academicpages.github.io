@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-fall-teaching-1
 venue: "University of Wisconsin Madison, Economics"
-date: 2016-10
+date: 2016-09-01
 location: "Madison, U.S."
 ---
 
