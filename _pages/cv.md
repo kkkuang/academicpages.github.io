@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chengdu, Southwest Jiaotong University, 2011
-* M.S. in Madision, University of Wisconsin Madison, 2015
+* B.S. in Chengdu, Southwest Jiaotong University, 2015
+* M.S. in Madison, University of Wisconsin-Madison, 2017
 * Ph.D in Ithaca, Cornell University, 2022 (expected)
 
 Work experience
