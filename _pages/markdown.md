@@ -21,5 +21,5 @@ yk735@cornell.edu
 **Phone**<br />
 (608)7724872
 
-**Office hours**<br />
+**Office Hours**<br />
 
