@@ -1,7 +1,7 @@
 ---
 title: "Grader for Math 521: Intro to Analysis"
 collection: teaching
-type: "Undergrad class"
+type: "Undergrad class for Mikhail Feldman"
 permalink: /teaching/2017-spring-teaching-2
 venue: "University of Wisconsin Madison, Math"
 date: 2017-02-01
