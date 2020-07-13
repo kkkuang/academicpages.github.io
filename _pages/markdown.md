@@ -7,19 +7,19 @@ redirect_from:
   - /markdown.html
 ---
 
-**Office**
+**Office**<br />
 
 
 
-**Mailing Address**
+**Mailing Address**<br />
 
 
 
-**Email Address**
+**Email Address**<br />
 yk735@cornell.edu
 
-**Phone**
+**Phone**<br />
 (608)7724872
 
-**Office hours**
+**Office hours**<br />
 
