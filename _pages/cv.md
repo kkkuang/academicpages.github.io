@@ -19,21 +19,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Research Assistant
+  * Cornell University
+  * Project: Confidence Intervals for Projections of Partially Identified Parameters
+  * Supervisor: Professor Francesca Molinari
+* Summer 2020: Research Assistant
+  * Cornell University
+  * Project: Estimating the COVID-19 Infection Rate: Anatomy of an Inference Problem 
+  * Supervisor: Professor Francesca Molinari
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, R, Matlab, Stata
+
