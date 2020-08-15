@@ -12,8 +12,6 @@ author_profile: true
 <!-- {% endfor %}-->
 
 
-
-
 * Teaching Assistant for Econ 6200 : Econometrics II (Ph.D.)
   * Professor Joerg Stoye, Cornell University, Economics, 2020
 
