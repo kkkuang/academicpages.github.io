@@ -1,5 +1,5 @@
 ---
-title: "TA for Econ 6190: Econometrics I (Ph.D.)"
+title: "Teaching Assistant for Econ 6190: Econometrics I (Ph.D.)"
 collection: teaching
 type: "Professor Yongmiao Hong"
 permalink: /teaching/2019-fall-teaching-6
