@@ -1,7 +1,7 @@
 ---
-title: "TA for Econ 6190: Econometrics I"
+title: "TA for Econ 6190: Econometrics I (Ph.D.)"
 collection: teaching
-type: "Graduate course for Yongmiao Hong"
+type: "professor Yongmiao Hong"
 permalink: /teaching/2019-fall-teaching-6
 venue: "Cornell University, Economics"
 date: 2019-09-01
