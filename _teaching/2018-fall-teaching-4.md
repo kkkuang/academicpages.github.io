@@ -1,7 +1,7 @@
 ---
-title: "TA for Math 2940: Linear Algebra for Engineers"
+title: "Teaching Assistant for Math 2940: Linear Algebra for Engineers (Undergrad)"
 collection: teaching
-type: "Undergraduate course for Laurent Saloff-Coste"
+type: "Professor Laurent Saloff-Coste"
 permalink: /teaching/2018-fall-teaching-4
 venue: "Cornell University, Math"
 date: 2018-09-01
