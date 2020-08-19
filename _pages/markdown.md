@@ -8,18 +8,18 @@ redirect_from:
 ---
 
 **Office**<br />
-  *Uris Hall 459
+  * Uris Hall 459
 
 
 **Mailing Address**<br />
-  *2250 North Triphammer Rd, Ithaca, NY.
+  * 2250 North Triphammer Rd, Ithaca, NY.
 
 
 **Email Address**<br />
-  *yk735@cornell.edu
+  * yk735@cornell.edu
 
 **Phone**<br />
-(608)7724872
+  * (608)7724872
 
 **Office Hours**<br />
 
