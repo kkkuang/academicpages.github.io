@@ -22,5 +22,5 @@ redirect_from:
   * (608)7724872
 
 **Office Hours**<br />
-  * Friday 2-4pm.or by appointment
+  * Friday 2-4 pm or by appointment
 
