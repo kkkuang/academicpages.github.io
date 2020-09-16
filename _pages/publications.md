@@ -10,13 +10,15 @@ author_profile: true
 <!-- {% endif %}-->
 
 {% include base_path %}
+
 Working papers
 ===============
-**Centralized or Decentralized? An Empirical Model on Task Assignment of Government in Pandemics**
-with Qiwei He
 
-**Nowcasting with dynamic factors: A LASSO penalized model averaging approach**
-with Yongmiao Hong, Yuying Sun
+* **Centralized or Decentralized? An Empirical Model on Task Assignment of Government in Pandemics**
+*with Qiwei He*
+
+* **Nowcasting with dynamic factors: A LASSO penalized model averaging approach**
+*with Yongmiao Hong, Yuying Sun*
 
 <!-- {% for post in site.publications reversed %}-->
 <!--   {% include archive-single.html %}-->
