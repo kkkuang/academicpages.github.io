@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Working Papers"
 permalink: /research/
 author_profile: true
 ---
@@ -11,8 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Working papers
-===============
+
 
 * **Centralized or Decentralized? An Empirical Model on Task Assignment of Government in Pandemics**
 *with Qiwei He*
