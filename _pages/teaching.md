@@ -11,7 +11,12 @@ author_profile: true
 <!--   {% include archive-single.html %}-->
 <!-- {% endfor %}-->
 
-
+* Teaching Assistant for **Econ 1110 : Intro to Micro (Undergrad)**
+  * Professor Nicholas Sanders, Cornell University, Economics, 2020
+  
+* Teaching Assistant for **Econ 1120 : Intro to Macro (Undergrad)**
+  * Professor Thomas Evans, Cornell University, Economics, 2020, 2021
+  
 * Teaching Assistant for **Econ 6200 : Econometrics II (Ph.D.)**
   * Professor Joerg Stoye, Cornell University, Economics, 2020
 
